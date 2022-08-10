@@ -53,7 +53,7 @@ Nombre           | Email
 
 Semana	| Contenido clase						  |	Ayudantía
 --------|-----------------------------------------|-------------------------------------------------------------------
-#1      |Introducción y modelo relacional		  | No hay
+#1      |Introducción	  | No hay
 
 
 ### Bibliografía 
@@ -67,7 +67,8 @@ Semana	| Contenido clase						  |	Ayudantía
 
 Fecha      | Evaluación
 -----------|------------
-
+31-08| Enunciado control 1: algebra relacional y SQL
+02-09| Entrega control 1
  
 
 
