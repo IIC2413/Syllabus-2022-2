@@ -54,6 +54,7 @@ Nombre           | Email
 Semana	| Contenido clase						  |	Ayudantía
 --------|-----------------------------------------|-------------------------------------------------------------------
 #1      |Introducción	  | No hay
+#2      |Modelo relacional + álgebra relacional	  | Álgebra relacional
 
 
 ### Bibliografía 
@@ -76,6 +77,8 @@ Fecha      | Evaluación
 
 Fecha      | Evaluación
 -----------|------------
+22-08| Enunciado entrega 1
+05-09| Entrega 1
 
 
 
