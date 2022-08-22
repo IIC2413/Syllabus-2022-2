@@ -77,7 +77,7 @@ Fecha      | Evaluación
 
 Fecha      | Evaluación
 -----------|------------
-22-08| Enunciado entrega 1
+24-08| Enunciado entrega 1
 05-09| Entrega 1
 
 
