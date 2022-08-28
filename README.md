@@ -70,6 +70,10 @@ Fecha      | Evaluación
 -----------|------------
 31-08| Enunciado control 1: algebra relacional y SQL
 02-09| Entrega control 1
+05-10| Enunciado control 2
+07-10| Entrega control 2
+09-11| Enunciado control 3
+11-11| Entrega control 3
  
 
 
@@ -78,7 +82,11 @@ Fecha      | Evaluación
 Fecha      | Evaluación
 -----------|------------
 24-08| Enunciado entrega 1
-05-09| Entrega 1
+11-09| Entrega 1
+20-09| Enunciado entrega 2
+14-10| Entrega 2
+24-10| Enunciado entrega 3
+25-11| Entrega 3
 
 
 
