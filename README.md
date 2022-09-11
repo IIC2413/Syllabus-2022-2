@@ -68,7 +68,13 @@ Matías Vásquez Plass |	matiasvasquez@uc.cl
 Semana	| Contenido clase						  |	Ayudantía
 --------|-----------------------------------------|-------------------------------------------------------------------
 #1      |Introducción	  | No hay
-#2      |Modelo relacional + álgebra relacional	  | Álgebra relacional
+#2      |Modelo relacional + álgebra relacional	  | 
+#3      |SQL I	  | Servidor + algebra relacional
+#4      |SQL II	  | 
+#5      |Modelo ER I	  | 
+#6      |Modelo ER II	  | 
+#7      |Dependencias y formas normales	  | PHP
+#8      |Almacenamiento e indices	  | 
 
 
 ### Bibliografía 
@@ -96,7 +102,7 @@ Fecha      | Evaluación
 Fecha      | Evaluación
 -----------|------------
 24-08| Enunciado entrega 1
-11-09| Entrega 1
+14-09| Entrega 1
 20-09| Enunciado entrega 2
 14-10| Entrega 2
 24-10| Enunciado entrega 3
