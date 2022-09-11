@@ -44,7 +44,21 @@ Francisca Ancic | Proyecto | [francisca.ancic@uc.cl]
 
 Nombre           | Email
 ---------------- | ----------------
-
+Lucas Fernández Bunout |	lucas.fernndez@uc.cl
+María Blanca Ortúzar Monckeberg |	bortuzarm@uc.cl
+Paula Andrea Silva Apaza | pasilva22@uc.cl
+Nicolás Antonio Berríos Ortigas |	nb@uc.cl
+Asunción Domínguez Ponce De León |	adominguez18@uc.cl
+Matías Arturo Montecino González |	mmontecino@uc.cl
+Valentina Andrea Campaña Herrera |	valentinacamph@uc.cl
+Pablo Andrés Alvarez Sanhueza |	paalvarez3@uc.cl
+Javier Enrique Poblete López |	jpobletel@uc.cl
+Martín Andrés Andrighetti Márquez |	martin.andrighetti@uc.cl
+Raimundo Ignacio Rivera Figueroa |	raimundo.rivera@uc.cl
+Nicolás Ignacio Fraga Valcarcel |	nfraga@uc.cl
+Jonathan Alejandro Riquelme Jiménez |	j.riquelme@uc.cl
+Vicente Thomas Labarthe |	vicente.thomas@uc.cl
+Matías Vásquez Plass |	matiasvasquez@uc.cl
 
 
 ---
