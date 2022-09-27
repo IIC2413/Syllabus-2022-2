@@ -73,8 +73,8 @@ Semana	| Contenido clase						  |	Ayudantía
 #4      |SQL II	  | 
 #5      |Modelo ER I	  | 
 #6      |Modelo ER II	  | 
-#7      |Dependencias y formas normales	  | PHP
-#8      |Almacenamiento e indices	  | 
+#7      |Dependencias y formas normales	  | 
+#8      |Almacenamiento e indices	  | PHP
 
 
 ### Bibliografía 
@@ -103,8 +103,8 @@ Fecha      | Evaluación
 -----------|------------
 24-08| Enunciado entrega 1
 14-09| Entrega 1
-20-09| Enunciado entrega 2
-14-10| Entrega 2
+28-09| Enunciado entrega 2
+21-10| Entrega 2
 24-10| Enunciado entrega 3
 25-11| Entrega 3
 
