@@ -139,6 +139,8 @@ calcula como NF = (0,5 NCE + 0,5 NP). En caso contrario, NF = mín{NCE , NP}.
 
 ## Resumen de notas
 
+En esta [planilla](https://docs.google.com/spreadsheets/d/1dU_13d4GUvcgFfVNddd4pyCKGRi9KCXw9kDcfX8N-kQ/edit?usp=sharing) pueden encontrar el resumen de sus notas en el curso. 
+
 
 
 ---
